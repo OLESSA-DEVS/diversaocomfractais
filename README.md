@@ -1,10 +1,11 @@
-# Fun with Fractals
+# DIVERTIR COM FRACTAIS
 
-#### Supplement to the article published by Better Programming, [Learning p5.js by Making Fractals](https://medium.com/better-programming/learning-p5-js-by-making-fractals-cbdcac5c651e)
+#### fORQUEEI ESTE PROJETO de um outro programador que inclusive escrevu o artigo:
+[Learning p5.js by Making Fractals](https://medium.com/better-programming/learning-p5-js-by-making-fractals-cbdcac5c651e)
 
-Create Fractals using P5.JS, JavaScript and recursive logic. 
+P5 JS é uma biblioteca de desenho front end(não necessita do NODE) e permite criarmos telas (CANVAS) e desenhar a vontade sobre as mesmas.
 
-A slider allows the user to dynamically redraw the tree with different angles of branching.
+A natureza nos apresenta vários ciclos e principalmente padrões de repetição numa harmonia perfeita e podemos enxergar tudo isto como equações matemáticas.
 
 ![](images/fractal-1.jpg)
 ![](images/fractal-2.jpg)
