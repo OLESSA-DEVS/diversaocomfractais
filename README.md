@@ -7,5 +7,6 @@ P5 JS é uma biblioteca de desenho front end(não necessita do NODE) e permite c
 
 A natureza nos apresenta vários ciclos e principalmente padrões de repetição numa harmonia perfeita e podemos enxergar tudo isto como equações matemáticas.
 
+
 ![](images/fractal-1.jpg)
 ![](images/fractal-2.jpg)
